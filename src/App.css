@@ -1,0 +1,23 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  color: #000;
+  background-color: rgb(255, 255, 255);
+}
+.app img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+.app h2 {
+  margin: 8px 0;
+  color: aqua;
+}
+.app p {
+  margin: 4px 0;
+  font-size: 15px;
+}
